@@ -1,3 +1,3 @@
 # sample
-Testing out Github
+Testing out Github.
 Wondering how this all works.
